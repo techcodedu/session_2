@@ -9,6 +9,6 @@
 
 3. For those who are using VSCode kindly install this plugin.. Prettier
 
-   (https://ibb.co/5858M1r)
+   <img src = "Screen Shot 2020-05-15 at 11.12.58 AM.png" >
 
  
